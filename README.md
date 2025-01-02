@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StrucGCN
 
 A **PyTorch** implementation of StrucGCN **"StrucGCN: Structural Enhanced Graph Convolutional Networks for Graph Embedding"**. (INFUS 2024)
@@ -20,7 +19,7 @@ In graph embedding, many popular Graph Neural Networks (GNNs) rely on node featu
 ## Run
 
 ```
-python mian.py
+python main.py
 ```
 
 ## ## Citation
@@ -28,6 +27,3 @@ python mian.py
 ```
 
 ```
-=======
-# StrucGCN
->>>>>>> 1c81538fe055ef63c62fd8ceb3c68284878a21d1
