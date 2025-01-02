@@ -22,7 +22,7 @@ In graph embedding, many popular Graph Neural Networks (GNNs) rely on node featu
 python main.py
 ```
 
-## ## Citation
+## Citation
 
 ```
 
