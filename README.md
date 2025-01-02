@@ -8,7 +8,7 @@ In graph embedding, many popular Graph Neural Networks (GNNs) rely on node featu
 
 ## Framework
 
-![](E:\下载\基于结构增强图神经网络的图嵌入方法\图片\图片.jpg)
+![](E:\下载\基于结构增强图神经网络的图嵌入方法\代码\StrucGCN\framework.jpg)
 
 ## Dependencies
 
