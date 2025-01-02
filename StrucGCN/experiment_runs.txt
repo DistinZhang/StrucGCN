@@ -1,0 +1,1 @@
+id	N	train_ra	dataset	feat_flag	gcn	aggr	alpha	beta	gama	lr	dr	h_dim	weight_decay	feat_generate

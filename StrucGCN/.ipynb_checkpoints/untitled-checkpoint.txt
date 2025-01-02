@@ -1,0 +1,10 @@
+id	N	train_ra	dataset	feat_flag	gcn	aggr	alpha	beta	gama	lr	dr	h_dim	weight_decay	feat_generate
+1	10	60	cora	TRUE	TRUE	mean_concat	1	1	0	0.001	0.8	128	0.000005	onehot
+2	10	60	pubmed	TRUE	TRUE	mean_concat	0	1	1	0.01	0.8	128	0.0005	onehot
+3	10	60	citeseer	TRUE	TRUE	mean_concat	0	1	1	0.001	0.3	64	0.00005	onehot
+4	10	60	chameleon	TRUE	TRUE	mean_concat	1	0	1	0.001	0.5	64	0.000005	onehot
+5	10	60	squirrel	TRUE	TRUE	mean_concat	4	0	1	0.03	0.5	128	0.000005	onehot
+6	10	60	actor	TRUE	TRUE	mean_concat	0	1	1	0.01	0.8	128	0.000005	onehot
+7	10	60	cornell	TRUE	TRUE	mean_concat	0	1	1	0.01	0.2	64	0.0005	onehot
+8	10	60	wisconsin	TRUE	TRUE	mean_concat	0	1	4	0.01	0.3	64	0.0005	onehot
+9	10	60	texas	TRUE	TRUE	mean_concat	0	8	1	0.01	0.3	128	0.0005	onehot
