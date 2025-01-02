@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StrucGCN
 
 A **PyTorch** implementation of StrucGCN **"StrucGCN: Structural Enhanced Graph Convolutional Networks for Graph Embedding"**. (INFUS 2024)
@@ -27,3 +28,6 @@ python mian.py
 ```
 
 ```
+=======
+# StrucGCN
+>>>>>>> 1c81538fe055ef63c62fd8ceb3c68284878a21d1
